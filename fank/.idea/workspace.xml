@@ -1,0 +1,207 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e116ac15-37ab-446c-91e6-c25c66997719" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/fanke.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="239">
+              <caret line="418" column="54" lean-forward="true" selection-start-line="418" selection-start-column="54" selection-end-line="418" selection-end-column="54" />
+              <folding>
+                <element signature="n#head#0;n#html#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/fanke.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5586">
+              <caret line="294" selection-start-line="294" selection-end-line="294" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/inde" />
+        <option value="$PROJECT_DIR$/741/index.html" />
+        <option value="$PROJECT_DIR$/index.css" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/dox.html" />
+        <option value="$PROJECT_DIR$/dox.css" />
+        <option value="$PROJECT_DIR$/fanke.html" />
+        <option value="$PROJECT_DIR$/fanke.css" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-10" />
+    <option name="width" value="980" />
+    <option name="height" value="1040" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e116ac15-37ab-446c-91e6-c25c66997719" name="Default Changelist" comment="" />
+      <created>1563171298511</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1563171298511</updated>
+      <workItem from="1563171300610" duration="4963000" />
+      <workItem from="1563176293583" duration="1163000" />
+      <workItem from="1563177541924" duration="16000" />
+      <workItem from="1563177574933" duration="4000" />
+      <workItem from="1563177623209" duration="2000" />
+      <workItem from="1563177731139" duration="6000" />
+      <workItem from="1563177917717" duration="20000" />
+      <workItem from="1563177949226" duration="3000" />
+      <workItem from="1563177967618" duration="7000" />
+      <workItem from="1563178017925" duration="4594000" />
+      <workItem from="1563236907774" duration="43000" />
+      <workItem from="1563237082720" duration="3182000" />
+      <workItem from="1563243572628" duration="326000" />
+      <workItem from="1563244547758" duration="3313000" />
+      <workItem from="1563247878703" duration="4857000" />
+      <workItem from="1563254594840" duration="11220000" />
+      <workItem from="1563267966292" duration="7130000" />
+      <workItem from="1563281679053" duration="13345000" />
+      <workItem from="1563323186788" duration="19099000" />
+      <workItem from="1563348914404" duration="10464000" />
+      <workItem from="1563365879899" duration="624000" />
+      <workItem from="1563366518121" duration="10751000" />
+      <workItem from="1563377295086" duration="730000" />
+      <workItem from="1563378038521" duration="538000" />
+      <workItem from="1563380778704" duration="525000" />
+      <workItem from="1563417155525" duration="9191000" />
+      <workItem from="1563455286951" duration="1627000" />
+      <workItem from="1563456928078" duration="4439000" />
+      <workItem from="1563495613037" duration="1488000" />
+      <workItem from="1563500758083" duration="1208000" />
+      <workItem from="1563859900121" duration="135000" />
+      <workItem from="1563948818389" duration="9000" />
+      <workItem from="1564064699952" duration="198000" />
+      <workItem from="1564158358507" duration="16000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="115236000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.14812332" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" visible="true" weight="0.32956153" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" />
+      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.3297587" />
+      <window_info anchor="right" id="Database" order="4" weight="0.3297587" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/inde" />
+    <entry file="file://$PROJECT_DIR$/qwe.html" />
+    <entry file="file://$PROJECT_DIR$/741/index.html" />
+    <entry file="file://$PROJECT_DIR$/index.css" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/timg.jpg" />
+    <entry file="file://$PROJECT_DIR$/2019-07-16_120155.png" />
+    <entry file="file://$PROJECT_DIR$/dox.css" />
+    <entry file="file://$PROJECT_DIR$/dox.html" />
+    <entry file="file://$PROJECT_DIR$/fanke.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="239">
+          <caret line="418" column="54" lean-forward="true" selection-start-line="418" selection-start-column="54" selection-end-line="418" selection-end-column="54" />
+          <folding>
+            <element signature="n#head#0;n#html#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/fanke.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5586">
+          <caret line="294" selection-start-line="294" selection-end-line="294" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
